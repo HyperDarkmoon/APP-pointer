@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1670418961 source:c:\users\asus\desktop\app pointeur\function.c
+	"headers.h"
+	<string.h>
+
+1670418009 source:c:\users\asus\desktop\app pointeur\main.c
+	"headers.h"
+
+1670417708 c:\users\asus\desktop\app pointeur\headers.h
+	<stdio.h>
+	<stdlib.h>
+
+1670423524 source:c:\users\asus\documents\github\uni-work\app pointeur\main.c
+	"headers.h"
+
+1670417708 c:\users\asus\documents\github\uni-work\app pointeur\headers.h
+	<stdio.h>
+	<stdlib.h>
+
+1670423197 source:c:\users\asus\documents\github\uni-work\app pointeur\function.c
+	"headers.h"
+	<string.h>
+
